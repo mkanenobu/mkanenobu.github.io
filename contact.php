@@ -27,7 +27,8 @@
         <h1>contact</h1>
     </header>
     <article>
-        <p>twitter account&nbsp;&nbsp;::&nbsp;&nbsp;<a href="https://twitter.com/nobu_1018" target="_new">https://twitter.com/nobu_1018</a></p>
+        <p>mail&nbsp;&nbsp;::&nbsp;&nbsp;kaneda.1018@gmail.com</p>
+        <p>Discord&nbsp;&nbsp;::&nbsp;&nbsp;mkane#8787</p>
     </article>
 
     <footer>
