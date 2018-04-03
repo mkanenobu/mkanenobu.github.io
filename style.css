@@ -47,7 +47,7 @@ nav a:active {
 
 nav .mdl-button {
     /* color: gray; */
-    color: black;
+    color: #555;
     text-decoration: none;
     font-family: 'Montserrat', sans-serif;
     text-transform: none;
