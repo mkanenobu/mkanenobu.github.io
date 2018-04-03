@@ -1,5 +1,5 @@
 @charset "utf-8";
-@import url('https://fonts.googleapis.com/css?family=Oxyge|Raleway');
+@import url('https://fonts.googleapis.com/css?family=Oxyge|Raleway|Montserrat');
 @import url('https://fonts.googleapis.com/earlyaccess/sawarabigothic.css');
 
     /*===========PC==========*/
@@ -29,7 +29,7 @@
 
 html body {
     height: 100%;
-    font-family: 'Oxygen', 'Sawarabi Gothic',  'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ',sans-serif;
+    font-family: 'Montserrat', 'Sawarabi Gothic',  'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ',sans-serif;
     background-color: white;
     color: white;
     background-color: gray;
@@ -48,7 +48,7 @@ nav a:active {
 nav .mdl-button {
     color: gray;
     text-decoration: none;
-    font-family: 'Oxygen', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     text-transform: none;
     font-size: 24px;
     border-radius: 0 0 8px 8px / 0 0 8px 8px;
@@ -61,11 +61,11 @@ header h1 {
     margin-left: 12px;
     line-height: 0.8;
     font-size: 38px;
-    font-family: 'Oxygen', 'Sawarabi Gothic',sans-serif;
+    font-family: 'Montserrat', 'Sawarabi Gothic',sans-serif;
 }
 
 article p,article ul li {
-    font-family: 'Oxygen', "Sawarabi Gothic", sans-serif;
+    font-family: 'Montserrat', "Sawarabi Gothic", sans-serif;
 }
 
 footer {
