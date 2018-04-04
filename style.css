@@ -63,6 +63,7 @@ header h1 {
     line-height: 0.8;
     font-size: 38px;
     font-family: 'Montserrat', 'Sawarabi Gothic',sans-serif;
+    letter-spacing: -0.05em;
 }
 
 article p,article ul li {
@@ -71,7 +72,7 @@ article p,article ul li {
 
 footer {
     background-color: #e6e6e6;
-    color: gray;
+    color: #555;
     border-radius: 5px 5px 0 0 / 5px 5px 0 0 ;
     width: auto;
     position: fixed;
@@ -85,10 +86,6 @@ footer p {
     margin: 0 5px 0;
 
 
-::selection {
-    background-color: #ff9632;
-}
-
-::-moz-selection {
-    background-color: #ff9632;
-}
+::selection { background-color: #ff9632;}
+::-webkit-selection { background-color: #ff9632;}
+::-moz-selection { background-color: #ff9632;}
